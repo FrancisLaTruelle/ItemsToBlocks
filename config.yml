@@ -1,0 +1,10 @@
+messages:
+    notplayer: "&cYou are not a player !"
+    notpermission: "&cYou cannot run this command !"
+    reloaded: "&aConfig reloaded !"
+    finally: "&f{totalChangedItems} &aitems have been converted into &f{totalChangedIBlocks} &ablocks !"
+itemstoblocks:
+    - 'DIAMOND:9 -> DIAMOND_BLOCK:1'
+    - 'IRON_NUGGET:9 -> IRON_INGOT:1'
+    - 'BRICK:4 -> BRICK_BLOCK:1'
+    - 'IRON_INGOT:9 -> IRON_BLOCK:1'

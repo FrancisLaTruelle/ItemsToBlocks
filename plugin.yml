@@ -1,0 +1,7 @@
+name: BetterItemToBlock
+version: 1.0
+author: FrancisLaTruelle
+main: fr.francislatruelle.itemstoblocks.Main
+commands:
+  itemstoblocks:
+    description: Turn your items into blocks

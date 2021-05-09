@@ -6,7 +6,7 @@ ItemsToBlocks is a plugin for Minecraft Java version 1.12.2. It allows you to tr
 - Customizable messages
 - Customizable items and blocks 
 
-# Features
+# Future features
 
 - Gradle
 - Multi-version support 
